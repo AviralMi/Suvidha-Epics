@@ -1,5 +1,5 @@
-# WorkLink
-### Go and get it done!!
+# Suvidha
+### Get what you need!!
 > A job provoding and posting website
 
 ### Problems Addressed:
@@ -53,10 +53,10 @@ Our project aims at reducing the gap between the people who are willing to work 
 The fact that labourers still are not comfortable with using apps and websites and even some labourers so not own a phone can be a limitation.
 
 ### Roadmap Overview:
-  1. 1st week of october - Setting up basic project and creating tasks
-  2. October to December - Features implementation
-  3. December to January - Improvements
-  4. January to February - Adding some new features and testing
+  1. 1st week of November - Setting up basic project and creating tasks
+  2. November to January - Features implementation
+  3. January to April - Improvements
+  4. April to May - Adding some new features and testing
 
 ### Approximate count of contributors required:
   8-12
@@ -81,14 +81,6 @@ _**Note**_: *This is only needed if you want to contribute to the project.*
 
 When a repository is cloned, it has a default remote named origin that points to your fork on GitHub, not the original repository it was forked from. To keep track of the original repository, you should add another remote named upstream. For this project it can be done by running the following command -
 
-`git remote add upstream https://github.com/dscnitp/job-provider-site`
+`git remote add upstream https://github.com/AviralMi/Suvidha-Epics`
 
-You can check that the previous command worked by running `git remote -v`. You should see the following output:
-
-```
-$ git remote -v
-origin  https://github.com/YOUR_GITHUB_USER_NAME/job-provider-site (fetch)
-origin  https://github.com/YOUR_GITHUB_USER_NAME/job-provider-site (push)
-upstream        https://github.com/dscnitp/job-provider-site.git (fetch)
-upstream        https://github.com/dscnitp/job-provider-site.git (push)
-```
+You can check that the previous command worked by running `git remote -v`.
